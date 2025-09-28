@@ -21,7 +21,7 @@ All resources were configured with proper Identity and Access Management (IAM) r
 
 ---
 
-### **Step 2: Implementing the Data Pipeline Using ADF** 🚀
+### **Step 2: Implementing the Data Pipeline Using ADF**
 
 **Azure Data Factory (ADF)** serves as the backbone for orchestrating the data pipeline.
 
