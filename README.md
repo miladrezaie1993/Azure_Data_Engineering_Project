@@ -76,9 +76,9 @@ The final step involved integrating the data with a BI tool to visualize and gen
 
 ---
 
-## **Key Takeaways** 🌐
+## **Conclusion** 🌐
 
-This project demonstrates the power of Azure’s ecosystem in creating a robust data engineering pipeline. By combining tools like ADF, Databricks, Synapse Analytics, and Power BI, the solution achieves:
+By combining tools like ADF, Databricks, Synapse Analytics, and Power BI, the solution achieves:
 
 - **Automation:** Seamlessly moves data through different stages.
 - **Scalability:** Handles large datasets with ease.
