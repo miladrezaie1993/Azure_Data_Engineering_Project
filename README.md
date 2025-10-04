@@ -76,7 +76,7 @@ The final step involved integrating the data with a BI tool to visualize and gen
 
 ---
 
-## **Conclusion** 🌐
+## **Conclusion**
 
 By combining tools like ADF, Databricks, Synapse Analytics, and Power BI, the solution achieves:
 
