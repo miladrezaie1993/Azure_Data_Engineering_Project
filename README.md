@@ -8,7 +8,7 @@ I am sharing a comprehensive project for designing an end-to-end (E2E) data engi
 
 ## **Architecture Overview**
 
-### **Step 1: Setting Up the Azure Environment** ⚙️
+### **Step 1: Setting Up the Azure Environment**
 
 To start, the following Azure resources were provisioned:
 
@@ -33,7 +33,7 @@ The raw data is now securely stored and ready for transformation.
 
 ---
 
-### **Step 3: Data Transformation with Azure Databricks** 🔄
+### **Step 3: Data Transformation with Azure Databricks**
 
 Using Azure Databricks, the raw data from the bronze container was transformed into a structured format.
 
@@ -50,7 +50,7 @@ Using Azure Databricks, the raw data from the bronze container was transformed i
 
 ---
 
-### **Step 4: Data Warehousing with Azure Synapse Analytics** 📊
+### **Step 4: Data Warehousing with Azure Synapse Analytics**
 
 Azure Synapse Analytics structured the processed data for analysis and BI reporting.
 
@@ -66,7 +66,7 @@ The cleaned, structured data was then moved to the gold container for reporting 
 
 ---
 
-### **Step 5: Business Intelligence Integration** 🕵️‍♂️
+### **Step 5: Business Intelligence Integration**
 
 The final step involved integrating the data with a BI tool to visualize and generate insights.
 
